@@ -15,7 +15,9 @@
 
 ## 設計書
 - ER図
+- https://app.diagrams.net/#G1ijhc7rIhupCE6kutUmyNOvUVSfYLPMzk
 - アプリケーション詳細設計
+- https://docs.google.com/spreadsheets/d/1aa6raRyWloSYqdvm_BLT5HBsJz193AB9/edit#gid=549108681
 
 ## 開発環境
 - OS：Linux(CentOS)
